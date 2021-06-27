@@ -1,4 +1,4 @@
-#include "HBridge_Motor.h"
+#include "HBridgeMotor.h"
 
 HBridge_Motor::HBridge_Motor()
 {

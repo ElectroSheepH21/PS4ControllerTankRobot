@@ -1,5 +1,5 @@
 #include <Arduino.h>
-#include "HBridge_Motor.h"
+#include "HBridgeMotor.h"
 
 class HBridge_Controller
 {
