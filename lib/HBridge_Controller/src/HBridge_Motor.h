@@ -16,7 +16,7 @@ public:
     uint8_t getPin1();
     uint8_t getPinEn();
     void stop();
-    void fowards();
+    void forwards();
     void backwards();
     void setEnable(uint8_t en);
 };
